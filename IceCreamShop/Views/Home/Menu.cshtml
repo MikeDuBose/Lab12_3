@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "Menu";
+}
+<link rel="stylesheet" href="~/css/menu.css">
+<center>
+    <h1>Flavors</h1>
+    <ul class="unordered font">
+        @{
+            string[] flavors = (string[])ViewData["flavors"];
+            string[] prices = (string[])ViewData["prices"];
+            var flavorsAndPrices = flavors.Zip(prices, (first, second) => first + ".........." + second);
+            foreach (var item in flavorsAndPrices) { 
+
+
+                <p>@item</p>
+                        
+                    }
+
+            }
+    </ul>
+</center>
+
