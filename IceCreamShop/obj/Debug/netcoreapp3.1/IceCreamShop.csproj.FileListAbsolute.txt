@@ -196,7 +196,6 @@ C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\zh
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.csprojAssemblyReference.cache
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\staticwebassets\IceCreamShop.StaticWebAssets.Manifest.cache
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\staticwebassets\IceCreamShop.StaticWebAssets.xml
-C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.RazorAssemblyInfo.cache
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.RazorAssemblyInfo.cs
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.AssemblyInfoInputs.cache
@@ -220,3 +219,11 @@ C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\Ic
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.csproj.CopyComplete
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.dll
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.pdb
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.MvcApplicationPartsAssemblyInfo.cache

@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\Users\\mdubose\\source\\repos\\CoffeeShop\\IceCreamShop\\IceCreamShop.csproj",
         "projectName": "IceCreamShop",
         "projectPath": "C:\\Users\\mdubose\\source\\repos\\CoffeeShop\\IceCreamShop\\IceCreamShop.csproj",
-        "packagesPath": "C:\\Users\\mdubose\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\MDuBose-\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mdubose\\source\\repos\\CoffeeShop\\IceCreamShop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\mdubose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MDuBose-\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -46,6 +46,14 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            },
+            "dapper": {
+              "target": "Package",
+              "version": "[2.0.35, )"
             }
           },
           "imports": [

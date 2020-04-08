@@ -1,12 +1,20 @@
 ﻿
 @{
     ViewData["Title"] = "Menu";
+    IEnumerable<Product> Product = (IEnumerable<Product>)ViewData["Product"];
 }
 <link rel="stylesheet" href="~/css/menu.css">
+
 <center>
     <h1>Flavors</h1>
     <ul class="unordered font">
-        @{
+
+        @foreach(Product p in Product)
+        {
+            <li>@p.Name...............@p.Price</li>
+        }
+
+        @*@{
             string[] flavors = (string[])ViewData["flavors"];
             string[] prices = (string[])ViewData["prices"];
             var flavorsAndPrices = flavors.Zip(prices, (first, second) => first + ".........." + second);
@@ -17,7 +25,7 @@
                         
                     }
 
-            }
+            }*@
     </ul>
 </center>
 
