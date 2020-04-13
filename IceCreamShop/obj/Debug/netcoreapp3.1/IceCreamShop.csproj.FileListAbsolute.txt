@@ -227,3 +227,6 @@ C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\ru
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
 C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\IceCreamShop.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddForm.cshtml.g.cs
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\mdubose\source\repos\CoffeeShop\IceCreamShop\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs

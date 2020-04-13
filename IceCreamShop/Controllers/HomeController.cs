@@ -39,6 +39,7 @@ namespace IceCreamShop.Controllers
             var Products = connection.Query<Product>(queryString); //queries the product class for the string declared above
             ViewData["Products"] = Products;
 
+
             //string[] flavors = { "Brewed", "Cold Brew", "Au Lait", "Double Espresso", "Americano", "Cortado", "Cappucino", "Latte", "Mocha", "Frappe", "Beans by the pound", 
             //"Iced Tea", "Hot Tea", "Chai Tea", "Chai Latte", "Matcha Latte", "Hot Chocolate"};
             //string[] prices = { "1.99", "2.99", "3.50", "5.00", "3.50", "3.50", "4.00", "6.00", "5.00", "4.50", "20.00", "3.50", "3.50", "4.50", "4.50", "5.00", "2.00"};
